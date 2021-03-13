@@ -15,6 +15,9 @@
 </br>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the webpage is nice to look at and fun to play with, it is unfortunately missing key map elements. There is no legend to tell the user what the symbols are, what the colors represent and what the numerical values mean. Additionally, it is without a scale bar and north arrow. They are necessary to communicate to the reader what the purpose is and what the content is about. There is a title, which I have not been able to implement as a beginner level map maker. This is something I appreciated. Additionally, Michael provides an attribution link and citation of sources. These are required components when making a webpage or project as they give proper credit and gives the user tools to produce a map of their own.
+</br>
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intended audience are either undergraduate or beginner level cartographers and those who are curious about saying location names at an accceptable level where locals would not find it offensive.
 </p> </br>
 <h3><b> System Architecture:</b></br>
 <h3><b> System Architecture:</b></br>

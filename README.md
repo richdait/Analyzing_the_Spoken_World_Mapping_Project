@@ -5,8 +5,8 @@
 </br>
 </br>
 </br>
-![](img/webmap.jpg)
-<h2> <p align="center"> <b> Essay: Analyzing The Spoken World Mapping Project</b> </p> </br>
+<a href="https://imgur.com/nXOsuW9"><img src="https://i.imgur.com/nXOsuW9.png" title="source: imgur.com" /></a>
+<h2> <p align="center">  <b> Essay: Analyzing The Spoken World Mapping Project</b> </p> </br>
 <h3><b> Overview:</b></br>
 <h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil. It is an interactive worldwide webmap of location name pronounciations. What it does is, it allows the user to </p> </br>
 <h3><b> System Architecture:</b></br>

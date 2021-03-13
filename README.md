@@ -7,4 +7,4 @@
 </br>
 <h2> <p align="center"> <b> Essay: Analyzing the Spoken World Mapping Project</b> </p> </br>
 
-<h4> <p align="left">     A is  </p> </br>
+<h4> <p align="left">&nbsp;&nbsp;&nbsp;A is  </p> </br>

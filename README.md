@@ -5,10 +5,13 @@
 </br>
 </br>
 </br>
-<h2> <p align="center"> <b> Essay: Analyzing the Spoken World Mapping Project</b> </p> </br>
+<h2> <p align="center"> <b> Essay: Analyzing The Spoken World Mapping Project</b> </p> </br>
 <h3><b> Overview:</b></br>
-<h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil, a former It is an interactive worldwide webmap of location name pronounciations.</p> </br>
+<h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil. It is an interactive worldwide webmap of location name pronounciations. What it does is, it allows the user to </p> </br>
 <h3><b> System Architecture:</b></br>
 <h3><b> System Architecture:</b></br>
 <h3><b> UI/UX and Web Mapping design </b></br>
-<h3><b> pros and cons </b></br>
+<h3><b>Pros and Cons</b></br>
+<h4><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One reason why I chose this project to analyze oppose to others is, it is visually pleasing. At first glance, my eyes could not help but be attracted to the choice of colors and setup of the map. In my opinion, one huge flaw that beginner to mid level cartographers make is selecting the wrong color scheme. I am guilty of this. Michael selected bright and fun colors such as yellow and orange that are not only nice to look at, but they go hand-in-hand with the theme of the project. <p align="left"></p></br>
+<h3><p align="left"><b>References</b></br>
+<ol>McNeil, Michael. (2015). <i>The Spoken World</i>. https://mikus31.github.io/the-spoken-world/ (Accessed on 03/09/2021).</ol>

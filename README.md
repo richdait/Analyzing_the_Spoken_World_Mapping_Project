@@ -5,4 +5,4 @@
 </br>
 </br>
 </br>
-<h1> <p align="center"> <b> Essay: Analyzing the Spoken World Mapping Project</b> </p> </br>
+<h2> <p align="center"> <b> Essay: Analyzing the Spoken World Mapping Project</b> </p> </br>

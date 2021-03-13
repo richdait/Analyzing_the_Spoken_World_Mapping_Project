@@ -14,4 +14,4 @@
 <h3><b>Pros and Cons</b></br>
 <h4><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One reason why I chose this project to analyze oppose to others is, it is visually pleasing. At first glance, my eyes could not help but be attracted to the choice of colors and setup of the map. In my opinion, one huge flaw that beginner to mid level cartographers make is selecting the wrong color scheme. I am guilty of this. Michael selected bright and fun colors such as yellow and orange that are not only nice to look at, but they go hand-in-hand with the theme of the project. <p align="left"></p></br>
 <h3><p align="center"><b>References</b></br>
-<ol>McNeil, Michael. (2015). <i>The Spoken World</i>. https://mikus31.github.io/the-spoken-world/ (Accessed on 03/09/2021).
+<li>McNeil, Michael. (2015). <i>The Spoken World</i>. https://mikus31.github.io/the-spoken-world/ (Accessed on 03/09/2021).</li>

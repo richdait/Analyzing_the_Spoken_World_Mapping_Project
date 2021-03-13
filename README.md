@@ -7,7 +7,7 @@
 </br>
 <a href="https://imgur.com/nXOsuW9"><img src="https://i.imgur.com/nXOsuW9.png" title="source: imgur.com" /></a>
 <h2> <p align="center">  <b> Essay: Analyzing The Spoken World Mapping Project</b> </p> </br>
-<h3><b> Overview</br>
+<h3><b> Overview</b></br>
 <h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil. It is an interactive worldwide webmap of location name pronunciations. The cartographer was inspired by his inability to help his nine year cousin, Asher, say <a href="https://github.com/mikus31/the-spoken-world">Icelandic</a> places for his school assignment. Ultimately, Michael wanted to find out how locals pronounce their hometown opposed to the standard pronunciation. At the time, he was a student at the <a href="https://newmapsplus.as.uky.edu/explore-new-maps">University of Kentucky</a>, so he took it upon himself to build an interactive, thematic webpage for the purpose of teaching himself and others an acceptable and non-offensive way of saying location names.
 </br>
 </br>

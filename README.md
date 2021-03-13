@@ -8,7 +8,12 @@
 <a href="https://imgur.com/nXOsuW9"><img src="https://i.imgur.com/nXOsuW9.png" title="source: imgur.com" /></a>
 <h2> <p align="center">  <b> Essay: Analyzing The Spoken World Mapping Project</b> </p> </br>
 <h3><b> Overview:</b></br>
-<h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil. It is an interactive worldwide webmap of location name pronounciations. What it does is, it allows the user to </p> </br>
+<h4> <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The digital geography related project I am analyzing and critiquing is <a href="https://mikus31.github.io/the-spoken-world/">The Spoken World</a> by Michael McNeil. It is interactive worldwide webmap of location name pronounciations. The cartographer was inspired by his inability to help his nine year cousin, Asher, pronounce <a href="https://github.com/mikus31/the-spoken-world">Icelandic</a> places for his school assignment. Additionally, he always questioned how to say places properly - more so, how locals would say their hometown such as New Orleans. At the time, Michael was a student at the <a href="https://newmapsplus.as.uky.edu/explore-new-maps">University of Kentucky</a> so he took it upon himself to build an interactive, thematic webpage of place names to teach himself and others how to pronounce them at an acceptable level where locals would understand.
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The major function of the webpage is the click event where it highlights each numbered cluster marker with a polygon after hovering over them; then, when the event is fired, the page zooms in and marker simultaneously breaks into smaller circles or a red marker with the location name. The zoom feature is an alternate way of accomplishing this function. Another function is the switchboard with radio buttons located at the top right. The user has the option of choosing between a light and dark basemap. Two other functions are the ability to minmize the splash window with either the arrow or list icons and attribution 'i' button that displays information such as who the map maker is and data sources.
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the webpage is nice to look at and fun to play with, it is missing key map elements. There is no legend to tell the user what the symbols are, what the colors represent and what the numerical values mean. Additionally, there are no scale bar and north arrow. In my opinion, they are necessary.  
+</p> </br>
 <h3><b> System Architecture:</b></br>
 <h3><b> System Architecture:</b></br>
 <h3><b> UI/UX and Web Mapping design </b></br>
